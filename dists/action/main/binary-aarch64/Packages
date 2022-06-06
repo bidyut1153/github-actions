@@ -1,0 +1,46 @@
+Package: git
+Installed-Size: 15028
+Maintainer: @bidyut1153
+Architecture: aarch64
+Version: 2.36.1
+Depends: libcurl, libiconv, less, openssl, pcre2, zlib
+Filename: pool/main/g/git/git_2.36.1_aarch64.deb
+Size: 3162096
+MD5sum: bf084a244189af9fb90eaa8028ae5e9b
+SHA1: f32c79c62ea540722affa432b6049b7862e6c7ad
+SHA256: b93481566a6c5931ffc1033619dd4f3a71ed0b0ced904de8127b0ac83cf6d5db
+SHA512: 29002fbf0428123f11e05cfe054fe74d9a317b1b3c8209011505ef41db807f0fd7985118d8edbd1>
+Description: Fast, scalable, distributed revision control system
+Homepage: https://git-scm.com/
+
+Package: gh
+Installed-Size: 36196
+Maintainer: @bidyut1153
+Architecture: aarch64
+Version: 2.11.3
+Filename: pool/main/g/gh/gh_2.11.3_aarch64.deb
+Size: 5313712
+MD5sum: f47288d30dbf04c5733a2264e5fcf259
+SHA1: 9c6993ab98cfd2571145095a8261cd223bd4542d
+SHA256: 2ad5176ac31798a55638d815bdcdab627b22fd461827ad57cb6d6c662a649251
+SHA512: ca743701c5a4efd17ff97ffba0aadf7c2b49ae43cfe78a2f9106ce680a8b23213a06e0e1e5add6c>
+Description: GitHub’s official command line tool
+Homepage: https://cli.github.com/
+
+Package: subversion
+Installed-Size: 6088
+Maintainer: @termux
+Architecture: aarch64
+Version: 1.14.2
+Replaces: subversion-dev, svn, svn-dev, gitsvn
+Depends: apr, apr-util, serf, libexpat, libsqlite, liblz4, utf8proc, zlib
+Breaks: subversion-dev, svn, svn-dev, gitsvn
+Conflicts: apache2, svn, svn-dev, gitsvn
+Filename: pool/main/s/subversion/subversion_1.14.2_aarch64.deb
+Size: 1372696
+MD5sum: ea3dffc786458307a637f2dc83acf688
+SHA1: cc968dddbf12c6735bc43ab2aec5e27b7c69398a
+SHA256: a9b43965fff13865e9019e8f5260a5081fcd17004c606659015b3a997852b5a9
+SHA512: 2a558a600fca6681648010fd20143dedbc98a9e346bf9b0dff9fb1521092a52750aba8357e32d7e>
+Description: Centralized version control system characterized by its simplicity
+Homepage: https://subversion.apache.org
