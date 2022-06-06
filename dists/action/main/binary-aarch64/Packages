@@ -1,1 +1,14 @@
-
+Package: git
+Installed-Size: 15028
+Maintainer: @bidyut1153
+Architecture: aarch64
+Version: 2.36.1
+Depends: libcurl, libiconv, less, openssl, pcre2, zlib
+Filename: pool/main/g/git/git_2.36.1_aarch64.deb
+Size: 3162096
+MD5sum: bf084a244189af9fb90eaa8028ae5e9b
+SHA1: f32c79c62ea540722affa432b6049b7862e6c7ad
+SHA256: b93481566a6c5931ffc1033619dd4f3a71ed0b0ced904de8127b0ac83cf6d5db
+SHA512: 29002fbf0428123f11e05cfe054fe74d9a317b1b3c8209011505ef41db807f0fd7985118d8edbd1>
+Description: Fast, scalable, distributed revision control system
+Homepage: https://git-scm.com/
